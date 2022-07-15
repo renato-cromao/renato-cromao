@@ -15,4 +15,4 @@
 
 
 
-![Snake animation](https://github.com/renato-cromao/renato-cromao/blob/output/github-contribution-grid-snake.svg)
+
