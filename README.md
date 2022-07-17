@@ -1,4 +1,28 @@
+## Renato Romão
+- 💻 Data Engineer.
+- 🎓 Bachelor of Software Engineering - UNICESUMAR (In Progress).
 
+
+## Skills - Proficient 💻
+- 🐍 Python  
+- 📋 SQL 
+- 💡 Spark
+- 🐳 Docker 
+- 🎲 Data Analysis
+
+## Skills - Studying 👨🏻‍🎓
+- 🧮 Power BI 
+
+
+## Main cloud skills 💭
+- GCP (GKE, DataProc, BigQuery, Cloud Storage)
+
+## Languages 🌎
+- PT: Native
+- EN: Intermediary
+- ES: Basics
+ 
+##
 
 <div align="center">
   <a href="https://github.com/renato-cromao">
