@@ -2,7 +2,7 @@
 
 ## Renato Romão
 - 💻 Data Engineer.
-- 🎓 Bachelor of Software Engineering - UNICESUMAR (In Progress).
+- 🎓 Bachelor of Software Engineering - UNICESUMAR
 
 
 ## Skills - Proficient 💻
@@ -18,6 +18,7 @@
 
 ## Main cloud skills 💭
 - GCP (GKE, DataProc, BigQuery, Cloud Storage)
+- AWS
 
 ## Languages 🌎
 - PT: Native
