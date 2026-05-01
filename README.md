@@ -3,12 +3,14 @@
 ## Renato Romão
 - 💻 Data Engineer.
 - 🎓 Bachelor of Software Engineering - UNICESUMAR
+- 💻 Data Science Technologist - UFMS (Universidade Federal do Matogrosso do Sul)
+- 💻 Postgraduate degree in Data Engineering and AI
 
 
 ## Skills - Proficient 💻
 - 🐍 Python  
 - 📋 SQL 
-- 💡 Spark
+- 💡 PySpark - Pandas - Polars
 - 🐳 Docker 
 - 🎲 Data Analysis
 
