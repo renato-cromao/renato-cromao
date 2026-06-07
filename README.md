@@ -3,7 +3,7 @@
 ## Renato Romão
 - 💻 Data Engineer.
 - 🎓 Bachelor of Software Engineering - UNICESUMAR
-- 💻 Data Science Technologist - UFMS (Universidade Federal do Matogrosso do Sul)
+- 💻 Data Science Technologist - UFMS (Universidade Federal do Mato Grosso do Sul)
 - 💻 Postgraduate degree in Data Engineering and AI
 
 
@@ -15,17 +15,18 @@
 - 🎲 Data Analysis
 
 ## Skills - Studying 👨🏻‍🎓
-- 🧮 Power BI 
+- 🧮 Power BI
+- A.I.
 
 
 ## Main cloud skills 💭
 - AWS
 - GCP
-- AZURE
+- Azure
 
 ## Languages 🌎
 - PT: Native
-- EN: Intermediary
+- EN: Intermediate
 - ES: Basics
  
 ##
