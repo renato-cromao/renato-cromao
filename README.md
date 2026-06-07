@@ -105,5 +105,5 @@ Repository in progress: `python-data-engineering`
 
 ## Contact
 
-* LinkedIn: add your LinkedIn profile here
+* LinkedIn: https://www.linkedin.com/in/renato-cm-romao/
 * GitHub: `renato-cromao`
